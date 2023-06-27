@@ -1,4 +1,3 @@
-import { FeatImage } from '@/constante';
 import Image from 'next/image'
 
 const FeatImage01 = 'images/features-03-image-01.png';
