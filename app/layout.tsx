@@ -1,4 +1,4 @@
-import './css/style.css'
+import 'app/css/style.css'
 
 import { Inter, Architects_Daughter } from 'next/font/google'
 
@@ -23,7 +23,7 @@ export const metadata = {
   title: 'Hompage',
   description: 'Homepage of Dyonisus consulting',
   icons: {
-    icon: '/favicon_io/favicon.ico',
+    icon: 'favicon_io/favicon.ico',
   },
 }
 
