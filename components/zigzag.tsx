@@ -1,8 +1,8 @@
 import Image from 'next/image'
 
-const FeatImage01 = 'images/features-03-image-01.png';
-const FeatImage02 = 'images/features-03-image-02.png';
-const FeatImage03 = 'images/features-03-image-03.png';
+const FeatImage01 = '/features-03-image-01.png';
+const FeatImage02 = '/features-03-image-02.png';
+const FeatImage03 = '/features-03-image-03.png';
 
 export default function Zigzag() {
   return (
