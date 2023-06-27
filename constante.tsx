@@ -9,7 +9,7 @@ export const HERO_BG = () => {
     return (
         <Image
           src="/images/bg_hero_img.png"
-          alt="/background image"
+          alt="background image"
           fill
           style={{objectFit:"cover",opacity: 0.5 }}
         />
